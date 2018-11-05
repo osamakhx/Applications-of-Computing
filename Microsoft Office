@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Application of Computing </title>
+<h1> Microsoft Office </h1>
+<style>
+h1 {
+	color: #837d63;
+	
+	font-family: Georgia;
+
+        font-size: 3rem;
+
+        text-transform: capitalize;
+
+        text-shadow: -1px -1px 1px #aaa,
+
+                     0px 2px 1px rgba(0,0,0,0.5),
+
+                     2px 2px 2px rgba(0,0,0,0.7),
+
+                     0px 0px 3px rgba(0,0,0,0.4);
+
+        text-align: center;
+
+      }
+
+body {background-color: #f4f5d5;}
+	
+</style>
+<a href="https://www.office.com/">Link to download</a>
